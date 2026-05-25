@@ -9,15 +9,6 @@ Most recently led customer engagement, identity, and personalization platforms a
 
 ---
 
-## 🛠️ What's here
-
-| Repo | What it is |
-|---|---|
-| 🧪 [**sauravi-ai-experiments**](https://github.com/sauravirai/sauravi-ai-experiments) | AI agent architecture: multi-agent orchestration, governance patterns, cost analysis, interactive showcase pieces |
-| 🎨 [**sauravirai.github.io**](https://github.com/sauravirai/sauravirai.github.io) | Personal portfolio site |
-
----
-
 ## 🎯 What I'm exploring
 
 Tinkering with agentic AI architectures. Figuring out what's worth going deep on.

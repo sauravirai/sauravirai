@@ -13,7 +13,9 @@ Most recently: Sr Director Product at Walmart International — customer engagem
 
 Shipping real AI agent projects to develop genuine technical depth.
 
-**Live:** [MusicSuperAgent](https://sauravirai.github.io/music-super-agent.html) — AI pipeline from song idea to published YouTube video in under an hour. DirectorAgent plans the creative. ProducerAgent executes assets. 12 videos, 6 days, 3 → 23 subscribers. Python · Claude API · FFmpeg · Selenium.
+**Featured**
+- [Keel](https://sauravirai.github.io/work/keel.html) — anonymous team-diagnostic tool, built end to end and handed over cleanly. FastAPI · Postgres · pytest + CI.
+- [MusicSuperAgent → Keepsake Studio](https://sauravirai.github.io/music-super-agent.html) — AI music-video pipeline, 28-day channel data, and the pivot to a private self-serve tool. Overview deck and walkthrough video included.
 
 **Also active:** agent evals framework (Pydantic AI + pytest + Ragas) · eCom-AI product concepts
 
@@ -22,4 +24,3 @@ Shipping real AI agent projects to develop genuine technical depth.
 ## On GitHub
 
 - [sauravirai.github.io](https://github.com/sauravirai/sauravirai.github.io) — portfolio: AI experiments, cost analysis, agent architecture write-ups
-- [music-super-agent](https://github.com/sauravirai/music-super-agent) — private: full pipeline source
